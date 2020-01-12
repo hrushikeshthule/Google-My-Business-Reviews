@@ -29,4 +29,4 @@ https://maps.googleapis.com/maps/api/js?v=3.exp&key=YourKey&signed_in=true&libra
 
 Congratulations!
 Now you can show Google My Business Reviews.
-We have implemented it a website which is a <a href='https://www.lonavalacab.com'>Car Rental In Lonavala</a>
+We have implemented it in a website which is a <a href='https://www.lonavalacab.com'>Car Rental In Lonavala</a>
